@@ -1,5 +1,5 @@
 start chrome https://docs.google.com/spreadsheets/d/1KGNQTs7E8qLLWi2FCfdbDisnIiwao2IKRWMIksAI2p0/export?format=csv # update repository
-sleep 20s
+sleep 10s
 ./SPACE-MATH.exe # rename file to the date then .csv
 git init
 git add .
